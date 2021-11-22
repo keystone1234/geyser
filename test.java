@@ -1,3 +1,4 @@
 hello master main
-i am updating
+hello im master
+i  am updating
 echo "hello mani"
